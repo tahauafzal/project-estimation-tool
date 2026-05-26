@@ -1,0 +1,20 @@
+# Compiled files
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Application properties (if contains passwords)
+# application.properties
